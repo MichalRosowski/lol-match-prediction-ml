@@ -27,7 +27,7 @@ While this may seem low compared to other domains, in League of Legends, this re
 * **API Integration:** RiotWatcher
 * **Visualization:** Matplotlib, Seaborn
 
-# League of Legends Match Prediction 🔮
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 Projekt wykorzystujący Deep Learning do przewidywania wyników meczów rankingowych w League of Legends na podstawie draftu (wyboru postaci).
 
